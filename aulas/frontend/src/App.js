@@ -1,26 +1,19 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import './global.css';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          MIXVIP Tecnologia LTDA!
-        </p>
-        <a
-          className="App-link"
-          href="https://www.mixvip.io"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          www.mixvip.io
-        </a>
-      </header>
-    </div>
+import Routes from "./routes";
+
+
+ function App() {
+  
+   return (
+      <Routes />
+
   );
+  
 }
 
-export default App;
+  export default App;
+
+
+

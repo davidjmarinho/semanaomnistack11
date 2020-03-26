@@ -52,3 +52,7 @@ npx knex migrate:latest
 
 npx knex migrate:make create_incidents
 
+npm install cors
+
+npm install react-icons
+
