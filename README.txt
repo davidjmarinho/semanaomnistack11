@@ -56,3 +56,47 @@ npm install cors
 
 npm install react-icons
 
+npm install -g expo-cli (Para instalar o expo)
+
+expo init mobile (Parar criar o app mobile = nome do app)
+
+seleciona o blank
+
+cd mobile
+
+yarn start
+
+docs.expo.io (npm install @react-navigation/native)
+
+npm install @react-navigation/native
+
+npm install --global windows-build-tools
+
+expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
+npm install react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
+npm install @react-navigation/stack
+
+expo client:install:android
+
+expo install expo-constants
+
+expo install expo-mail-composer
+
+npm install intl
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
