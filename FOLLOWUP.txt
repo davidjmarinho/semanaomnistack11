@@ -1,0 +1,21 @@
+Deploy:
+
+NodeJs: Heroku (Simples Non COmercial) Video no youtube ensinando a fazer;
+
+Digital Ocean (Comercial) $5 Server 1GB Video no youtube ensinando a fazer;
+
+Microsoft Azure/ AWS/ Google Cloud
+
+
+
+Front end: 
+
+netlify : ReactJS 0$
+-----------------------------
+Estudo daqui para frente: 
+
+Padrões de código: ESLint, Prettier
+Autenticação JWT
+Styled Components
+
+--------------------------

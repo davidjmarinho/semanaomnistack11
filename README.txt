@@ -86,6 +86,21 @@ expo install expo-mail-composer
 
 npm install intl
 
+npm install celebrate (para validar os campos)
+
+--------------
+Testador de código:
+
+npm install jest
+
+npx jest --init
+
+npm test
+
+npm instal cross-env
+
+
+npm install supertest -D  (Supertest - testador)
 
 
 
